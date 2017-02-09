@@ -1,0 +1,2 @@
+# AndroidthingsStudy
+借助google的things系统学习物联网开发和相关资料汇总的平台
